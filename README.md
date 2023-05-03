@@ -13,7 +13,7 @@ The project also includes .html files for previewing the results of the netbook 
 In the recomender, after analyzing the results of various regression models, the SVR model was found to be the best. A one-hot encoding technique was used to prepare the user and item features.
 
 ## Scores
-![Results from recommender](./results/results.png)
+![Results from recommender](./results/results.PNG)
 
 ## Used Technologies
 - [anaconda](https://www.anaconda.com/)
