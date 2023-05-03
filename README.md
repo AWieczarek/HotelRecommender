@@ -32,11 +32,11 @@ Before installation, make sure you have installed on your computer
 - python 3.10+
 1. Create new conda environment
 ```
-$ conda env create --name hotel-recommender -f environment.yml
-$ conda activate hotel-recommender
+conda env create --name hotel-recommender -f environment.yml
+conda activate hotel-recommender
 ```
 2. Launch jupyter netbook
 ```
-$ jupyter notebook
+jupyter notebook
 ```
 3. Enter project_1_data_preparation.ipynb or project_1_recommender_and_evaluation.ipynb
